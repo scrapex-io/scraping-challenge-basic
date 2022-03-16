@@ -10,10 +10,9 @@ Webscraping challenge entry level
 1. Clonar el repositorio en local
 2. Dejar tal cual la rama main y crear un nuevo branch "develop" y trabajar el challenge en ese branch.
 3. Agregar al usuario `noctilukkas` como colaborador dentro del repositorio
-4. Cambiar [visibilidad](https://help.github.com/es/github/administering-a-repository/setting-repository-visibility) a privado
-5. Desarrollar lo que se indica en la siguiente sección en Python3. Si existen supuestos, estos deben definirse claramente en el README
-6. Cuando el desarrollo este listo pushear la rama develop y crear un PR (Pull Request) a master.
-7. Notificar mediante email cuando esté listo y enviar el link del repositorio privado.
+4. Desarrollar lo que se indica en la siguiente sección en Python3. Si existen supuestos, estos deben definirse claramente en el README
+5. Cuando el desarrollo esté listo pushear la rama develop y crear un PR (Pull Request) a main.
+6. Notificar mediante email cuando esté listo y enviar el link del repositorio privado.
 
 
 ## Instrucciones de desarrollo
