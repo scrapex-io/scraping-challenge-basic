@@ -1,7 +1,7 @@
-# scraping-challenge-basic
 Webscraping challenge entry level
 
-# Test Scraping nivel básico - ScrapeX.io
+# Test Scraping nivel básico - [ScrapeX.io](scrapex.io)
+
 
 ## Instrucciones para repositorio GIT
 
